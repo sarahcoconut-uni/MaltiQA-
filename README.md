@@ -1,7 +1,7 @@
-**MaltiQA:**
+**MaltiQA:**  
 This project focuses on developing a Multiple Choice Question Answering (MCQ QA) system for the Maltese language using transformer-based models
 
-**Project Pipeline:**
+**Project Pipeline:**  
 1.Audio Collection (Maltese TV / News Broadcasts)  
 2.Speech-to-Text Transcription  
 3.Raw Maltese Text Generation  
@@ -11,9 +11,9 @@ This project focuses on developing a Multiple Choice Question Answering (MCQ QA)
 7.BERT Fine-Tuning  
 8.Performance Evaluation  
 
-**Model Used:**
+**Model Used:**  
 bert-base-multilingual-cased
 BertForMultipleChoice
 
-**Dataset Structure:**
+**Dataset Structure:**  
 question, option_0, option_1, option_2, option_3, ans
