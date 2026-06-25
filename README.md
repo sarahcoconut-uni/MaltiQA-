@@ -12,8 +12,8 @@ This project focuses on developing a Multiple Choice Question Answering (MCQ QA)
 8.Performance Evaluation  
 
 **Model Used:**  
-bert-base-multilingual-cased
-BertForMultipleChoice
+- bert-base-multilingual-cased  
+- BertForMultipleChoice
 
 **Dataset Structure:**  
 question, option_0, option_1, option_2, option_3, ans
